@@ -1,0 +1,21 @@
+#carrousel .carousel-item {
+    height: 70vh;
+    background-position: center center;
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+    background-size: cover;
+    background-color: #669999;
+}
+
+#carrousel #plomero{
+    /* Ubicación de la imagen */
+    background-image: url("../images/plomero.jpg");
+}
+#carrousel #electricista{
+    /* Ubicación de la imagen */
+    background-image: url("../images/electricista.jpg");
+}
+#carrousel #pintor{
+    /* Ubicación de la imagen */
+    background-image: url("../images/pintor.jpg");
+}
