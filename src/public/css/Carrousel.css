@@ -1,3 +1,7 @@
+#carrousel {
+    /* padding-top: 56px; */
+}
+
 #carrousel .carousel-item {
     height: 70vh;
     background-position: center center;

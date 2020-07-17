@@ -1,0 +1,39 @@
+#navbar {
+    -webkit-box-shadow: 1px -17px 20px 14px rgba(0,0,0,0.35);
+    -moz-box-shadow: 1px -17px 20px 14px rgba(0,0,0,0.35);
+    box-shadow: 1px -20px 20px 14px rgba(0,0,0,0.35);
+    margin-bottom: 5px;
+        /* position: fixed;
+        z-index: 1000;
+        width: 100%; */
+}
+
+#navbar .navbar-brand.user-email{
+    width: 80%;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+#navbar #languages img {
+    width: 25px;
+}
+
+#navbar .navbar-action{
+    display: inline-block;
+    padding-top: .3125rem;
+    padding-bottom: .3125rem;
+    margin-right: 1rem;
+    line-height: inherit;
+    white-space: nowrap;
+    color: #737373e6;
+    text-decoration: none;
+}
+#navbar .navbar-action:hover{
+    color: #424242e6;
+}
+#navbar .btn-actions{
+    border: none;
+    background: none;
+    outline: none;
+}
